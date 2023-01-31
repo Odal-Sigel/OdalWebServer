@@ -1,0 +1,3 @@
+# Ignore Java Project folders for vscode settings and binaries
+Web_Server/.vscode/
+Web_Server/bin/
