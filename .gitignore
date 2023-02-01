@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 .metadata/
 bin/
+=======
+# Ignore Java Project folders for vscode settings and binaries
+Web_Server/.vscode/
+Web_Server/bin/
+>>>>>>> 39b5d9cf98f73811f87b04c46977ad32f5a58b69
