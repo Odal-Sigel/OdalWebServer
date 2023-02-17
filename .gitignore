@@ -1,3 +1,9 @@
-# Ignore Java Project folders for vscode settings and binaries
-Web_Server/.vscode/
-Web_Server/bin/
+# Ignore Visual Studio folders
+.vscode
+# Ignore Java Project folders
+# Eclipse folders and files
+.settings
+.classpath
+.project
+# Java binaries
+bin/
